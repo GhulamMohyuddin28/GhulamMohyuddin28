@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ghulam Mohyuddin</h1>
-  <h3>Data Scientist | ML Engineer | Agentic Systems Builder</h3>
+  <h3>Data Scientist | ML Engineer</h3>
   <p><strong>BS Software Engineering</strong> • National Textile University • Expected 2027</p>
   <p>
     <a href="https://github.com/ghulammohyuddin-coder">
