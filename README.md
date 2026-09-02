@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Ghulam Mohyuddin</h1>
   <h3>Data Scientist | ML Engineer</h3>
-  <p><strong>BS Software Engineering</strong> • National Textile University • Expected 2027</p>
+  <p><strong>BS Software Engineering</strong> 
+             • National Textile University 
+             • Expected 2027</p>
   <p>
     <a href="https://github.com/ghulammohyuddin-coder">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
